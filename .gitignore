@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node (pc/web/dist được giữ lại để chạy ngay không cần Node)
+node_modules/
+
+# dữ liệu riêng / sinh ra khi chạy
+pc/macros.json
+pc/macros.json.tmp
+muos/RGPad/rgpad.log
+muos/RGPad/chup_man_hinh
+*.bmp
+*.wav
+mic_report.txt
+
+# file cá nhân để chung thư mục
+/*.jpeg
+/*.jpg
+/*.zip
+*.lnk

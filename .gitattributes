@@ -1,0 +1,5 @@
+# script chạy trên muOS (Linux) phải giữ xuống dòng LF, kể cả khi clone trên Windows
+*.sh   text eol=lf
+*.py   text eol=lf
+*.json text eol=lf
+*.bat  text eol=crlf

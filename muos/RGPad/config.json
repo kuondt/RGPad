@@ -1,0 +1,18 @@
+{
+  "_ghi_chu": "pc_ip de trong = tu tim PC. Neu khong tim duoc, dien IP cua PC vao, vd 192.168.1.20",
+  "pc_ip": "",
+  "port": 9876,
+  "deadzone": 0.10,
+  "dpad_camera_speed": 0.85,
+  "dpad_camera_on_start": false,
+  "_ghi_chu_nut": "Ma lay tu cau hinh muOS cua RG40XXV. Gan theo CHU IN tren may: A = Xbox A, B = Xbox B, X = Xbox X, Y = Xbox Y",
+  "keys": {
+    "304": "A", "305": "B", "307": "X", "306": "Y",
+    "308": "LB", "309": "RB", "314": "LT", "315": "RT",
+    "310": "BACK", "311": "START", "312": "MENU", "354": "MENU",
+    "313": "LTHUMB", "316": "RTHUMB"
+  },
+  "axes": {
+    "2": "LX", "3": "LY", "4": "RX", "5": "RY"
+  }
+}
